@@ -4,8 +4,8 @@ import json
 import requests
 import streamlit as st
 
-# secret authentication key
-openai.api_key = "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"
+# Enter your secret key below
+openai.api_key = "Enter Your Key over here"
 
 
 # function for connecting with chatGPT
